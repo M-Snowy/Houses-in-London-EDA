@@ -1,5 +1,6 @@
 # Houses-in-London-EDA
 Houses in London Exploratory Data Analysis in Python
+https://github.com/M-Snowy/Houses-in-London-EDA/blob/main/Houses%20in%20London.ipynb
 
 ### Exploratory Data Analysis of Houses in London
 This  notebook demonstrates data manipulation  using Python, with a focus on practical examples that are relevant for data analysis and interpretation. The key objectives of this notebook is Data Manipulation: Practical implementation of filter, map, and apply for working with pandas DataFrames. Techniques for extracting and transforming specific data points (e.g., extracting domain names from email addresses).
